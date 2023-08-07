@@ -11,7 +11,7 @@
         <div class="container pb-sm-3">
             <div class="row text-center text-sm-start">
                 <div class="col-md-10 col-lg-6">
-                    <h1 class="display-2 mb-lg-3">Medium is a place to write, read, and connect</h1>
+                    <h1 class="display-2 mb-lg-3"> is a place to write, read, and connect</h1>
                     <p class="fs-5">
                         It's easy and free to post your thinking on any topic and connect with millions of readers.
                         <a href="pages/write.html" class="text-dark">Learn More</a>
